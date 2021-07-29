@@ -75,7 +75,7 @@
     "ajv-formats": "^2.0.2",
     "aws-sdk": "2.814.0",
     "babel-plugin-prismjs": "^2.0.1",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "compose-function": "^3.0.3",
     "compression": "^1.7.3",
     "cpy": "^8.1.2",
